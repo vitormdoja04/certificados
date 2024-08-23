@@ -2,19 +2,18 @@
 
 ## Este repositório se trata de todos os certificados de cursos/projetos que eu  já realizei:
 
-- Banco de Dados - Fundação Bradesco
-- [Banco de Dados](imagens/Certificado Novo Padrao - Bradesco.png)
+- [Banco de Dados - Fundação Bradesco](imagens/certificado_bd_bradesco.png)
 
-- Github
+- [Github](imagens/curso_git_vitor_martin_doja.jpg)
 
-- Linux
+- [Linux](imagens/curso_linux_vitor_martin_doja.jpg)
 
-- SQL
+- [SQL](imagens/curso_sql_vitor_martin_doja.jpg)
 
-- Docker
+- [Docker](imagens/docker_curso_vitor_martin_doja.jpg)
 
-- Métodos Ágeis
+- [Métodos Ágeis](imagens/metodos_ageis_vitor_martin_doja.jpg)
 
-- Pyspark Spark
+- [Pyspark Spark](imagens/pyspark_curso_vitor_martin_doja.jpg)
 
-- Python
+- [Python](imagens/python_curso_vitor_martin_doja.jpg)
