@@ -17,3 +17,5 @@
 - [Pyspark Spark](imagens/pyspark_curso_vitor_martin_doja.jpg)
 
 - [Python](imagens/python_curso_vitor_martin_doja.jpg)
+
+- [Certificados AWS](imagens/aws/)
